@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5E60C9762215DCBE00DEE86A /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E60C9752215DCBE00DEE86A /* SecondViewController.swift */; };
 		5E837F5B2213392B00CC23D1 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E837F5A2213392B00CC23D1 /* Item.swift */; };
 		5EBBB331220DF1840048ADA1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EBBB330220DF1840048ADA1 /* AppDelegate.swift */; };
 		5EBBB333220DF1840048ADA1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EBBB332220DF1840048ADA1 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5E60C9752215DCBE00DEE86A /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		5E837F5A2213392B00CC23D1 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		5EBBB32D220DF1840048ADA1 /* ShoppingList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShoppingList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EBBB330220DF1840048ADA1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				5EBBB330220DF1840048ADA1 /* AppDelegate.swift */,
 				5EBBB332220DF1840048ADA1 /* ViewController.swift */,
 				5EBBB334220DF1840048ADA1 /* Main.storyboard */,
+				5E60C9752215DCBE00DEE86A /* SecondViewController.swift */,
 				5E837F5A2213392B00CC23D1 /* Item.swift */,
 				5EBBB337220DF18B0048ADA1 /* Assets.xcassets */,
 				5EBBB339220DF18B0048ADA1 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E60C9762215DCBE00DEE86A /* SecondViewController.swift in Sources */,
 				5EBBB333220DF1840048ADA1 /* ViewController.swift in Sources */,
 				5E837F5B2213392B00CC23D1 /* Item.swift in Sources */,
 				5EBBB331220DF1840048ADA1 /* AppDelegate.swift in Sources */,
